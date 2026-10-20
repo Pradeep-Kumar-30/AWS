@@ -569,7 +569,7 @@ This diagram shows a typical flow for a modern application running on AWS using 
 
 ---
 
-## 17. Study Tips
+## 17. Study AS
 
 - Start with the fundamentals: cloud, AWS, IAM, VPC, EC2.
 - Learn service categories: compute, storage, databases, network, security.
@@ -580,7 +580,7 @@ This diagram shows a typical flow for a modern application running on AWS using 
 
 ---
 
-## 18. Quick Summary Cheat Sheet
+## 18.  Summary 
 
 | Area | Core AWS Service | Purpose |
 |------|-----------------|---------|
@@ -599,24 +599,3 @@ This diagram shows a typical flow for a modern application running on AWS using 
 
 ---
 
-## 19. Final Takeaway
-
-AWS is not just a set of services. It is a complete platform for building, deploying, scaling, and securing modern applications. The most important idea is this:
-
-> Cloud computing lets you focus on building products and solving business problems, while AWS manages the infrastructure behind the scenes.
-
-This is the foundation for a successful career in cloud engineering, DevOps, backend development, and platform engineering.
-
----
-
-## 20. Suggested Next Steps
-
-1. Review the AWS free-tier basics
-2. Create an AWS account and explore the console
-3. Launch an EC2 instance
-4. Create an S3 bucket and upload a file
-5. Configure IAM policies and roles
-6. Build a simple architecture with EC2 + S3 + IAM
-7. Study CloudFormation and Lambda next
-
-This repository is intended as a concise, chapter-wise AWS learning guide for quick revision and structured understanding.
