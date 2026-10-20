@@ -1,6 +1,6 @@
 # AWS Cloud Computing Notes
 
-This repository contains a chapter-wise study guide for AWS and cloud computing. The notes are built from the raw course content provided in the attachment and mapped to the AWS topics available in this workspace.
+This repository contains a chapter-wise study guide for AWS and cloud computing. 
 
 ## 1. Why This Matters
 
